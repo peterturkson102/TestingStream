@@ -18,7 +18,7 @@ List<Student> names = new ArrayList<Student>();
 
 
     }
-/*
+/* vcdxcx
     List<Nameable> getRegisterByLevel (Level level ){
     return  names.stream() .filter(x -> x.getLevel().equals(level))
                 .collect(Collectors.toList());
